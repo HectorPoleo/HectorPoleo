@@ -22,7 +22,8 @@
 
 ## 📂 Proyectos destacados
 
-- 🎮 **Juego del Ahorcado** — Aplicación desarrollada con Java y JavaFX  
+- 🎮 **Juego del Ahorcado** — Aplicación desarrollada con Java y JavaFX
+- 🎮 **Biblioteca Fate** — Aplicación desarrollada con Java y JavaFX  
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="A_digital_banner_banner_features_Héctor_Poleo_in_p.png" alt="Banner Héctor Poleo" width="100%">
+  <img src="Banner.png" alt="Banner Héctor Poleo" width="100%">
 </p>
 
 🎓 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)  

@@ -31,6 +31,8 @@
 
 ¿Te interesa colaborar o simplemente charlar sobre desarrollo?
 
-✉️ hectorpoleo2007@gmail.com
+✉️ hectorpoleo2007@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor%20Poleo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/héctor-poleo-olmo-0399713b2/)
 
 ---

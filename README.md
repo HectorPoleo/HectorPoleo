@@ -1,4 +1,4 @@
-![Banner Héctor Poleo](Banner.PNG)
+![Banner Héctor Poleo](Banner.png)
 
 🎓 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💡 Apasionado por la programación, el diseño de interfaces y el desarrollo de ideas creativas  

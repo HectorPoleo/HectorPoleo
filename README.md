@@ -1,8 +1,10 @@
-# 👋 ¡Hola! Soy Héctor
+<p align="center">
+  <img src="A_digital_banner_banner_features_Héctor_Poleo_in_p.png" alt="Banner Héctor Poleo" width="100%">
+</p>
 
 🎓 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💡 Apasionado por la programación, el diseño de interfaces y el desarrollo de ideas creativas  
-🚀 Explorando nuevas tecnologías cada día
+🚀 Explorando nuevas tecnologías cada día  
 
 ---
 
@@ -22,7 +24,7 @@
 
 ## 📂 Proyectos destacados
 
-- 🎮 **Juego del Ahorcado** — Aplicación desarrollada con Java y JavaFX
+- 🎮 **Juego del Ahorcado** — Aplicación desarrollada con Java y JavaFX  
 - 🎮 **Biblioteca Fate** — Aplicación desarrollada con Java y JavaFX  
 
 ---

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Banner.png" alt="Banner Héctor Poleo" width="100%">
-</p>
+![Banner Héctor Poleo](Banner.png)
 
 🎓 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💡 Apasionado por la programación, el diseño de interfaces y el desarrollo de ideas creativas  

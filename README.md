@@ -31,7 +31,7 @@
 
 ¿Te interesa colaborar o simplemente charlar sobre desarrollo?
 
-[![Gmail](https://img.shields.io/badge/Gmail-Héctor%20Poleo-blue?style=for-the-badge&logo=gmail)](https://mail.google.com/mail?view=cm&fs=18&to=hectorpoleo2007@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Héctor%20Poleo-blue?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=hectorpoleo2007@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor%20Poleo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/héctor-poleo-olmo-0399713b2/)
 

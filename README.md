@@ -35,4 +35,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor%20Poleo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/héctor-poleo-olmo-0399713b2/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6D00?style=for-the-badge&logo=firefox&logoColor=white)](https://https://hectorpoleo.github.io)
+
 ---
